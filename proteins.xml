@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<protein_list>
+		<primaryAccession>O95905</primaryAccession>
+		<organism>
+			<scientificName>Homo sapiens</scientificName>
+			<commonName>Human</commonName>
+			<taxonId>9606</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Chordata</lineage>
+			<lineage>Craniata</lineage>
+			<lineage>Vertebrata</lineage>
+			<lineage>Euteleostomi</lineage>
+			<lineage>Mammalia</lineage>
+			<lineage>Eutheria</lineage>
+			<lineage>Euarchontoglires</lineage>
+			<lineage>Primates</lineage>
+			<lineage>Haplorrhini</lineage>
+			<lineage>Catarrhini</lineage>
+			<lineage>Hominidae</lineage>
+			<lineage>Homo</lineage>
+		</organism>
+		<proteinName>Protein ecdysoneless homolog</proteinName>
+		<sequence>
+			<value>MEETMKLATMEDTVEYCLFLIPDESRDSDKHKEILQKYIERIITRFAPMLVPYIWQNQPFNLKYKPGKGGVPAHMFGVTKFGDNIEDEWFIVYVIKQITKEFPELVARIEDNDGEFLLIEAADFLPKWLDPENSTNRVFFCHGELCIIPAPRKSGAESWLPTTPPTIPQALNIITAHSEKILASESIRAAVNRRIRGYPEKIQASLHRAHCFLPAGIVAVLKQRPRLVAAAVQAFYLRDPIDLRACRVFKTFLPETRIMTSVTFTKCLYAQLVQQRFVPDRRSGYRLPPPSDPQYRAHELGMKLAHGFEILCSKCSPHFSDCKKSLVTASPLWASFLESLKKNDYFKGLIEGSAQYRERLEMAENYFQLSVDWPESSLAMSPGEEILTLLQTIPFDIEDLKKEAANLPPEDDDQWLDLSPDQLDQLLQEAVGKKESESVSKEEKEQNYDLTEVSESMKAFISKVSTHKGAELPREPSEAPITFDADSFLNYFDKILGPRPNESDSDDLDDEDFECLDSDDDLDFETHEPGEEASLKGTLDNLKSYMAQMDQELAHTCISKSFTTRNQVEPVSQTTDNNSDEEDSGTGESVMAPVDVDLNLVSNILESYSSQAGLAGPASNLLQSMGVQLPDNTDHRPTSKPTKN</value>
+			<length>644</length>
+			<mass>72758</mass>
+		</sequence>
+		<geneName>ECD</geneName>
+		<function>Regulator of p53/TP53 stability and function. Inhibits MDM2-mediated degradation of p53/TP53 possibly by cooperating in part with TXNIP (PubMed:16849563, PubMed:23880345). May be involved transcriptional regulation. In vitro has intrinsic transactivation activity enhanced by EP300. May be a transcriptional activator required for the expression of glycolytic genes (PubMed:19919181, PubMed:9928932). Involved in regulation of cell cycle progression. Proposed to disrupt Rb-E2F binding leading to transcriptional activation of E2F proteins (PubMed:19640839). The cell cycle -regulating function may depend on its RUVBL1-mediated association with the R2TP complex (PubMed:26711270). May play a role in regulation of pre-mRNA splicing (PubMed:24722212). Participates together with DDX39A in mRNA nuclear export (PubMed:33941617)</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>P04439</primaryAccession>
+		<organism>
+			<scientificName>Homo sapiens</scientificName>
+			<commonName>Human</commonName>
+			<taxonId>9606</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Chordata</lineage>
+			<lineage>Craniata</lineage>
+			<lineage>Vertebrata</lineage>
+			<lineage>Euteleostomi</lineage>
+			<lineage>Mammalia</lineage>
+			<lineage>Eutheria</lineage>
+			<lineage>Euarchontoglires</lineage>
+			<lineage>Primates</lineage>
+			<lineage>Haplorrhini</lineage>
+			<lineage>Catarrhini</lineage>
+			<lineage>Hominidae</lineage>
+			<lineage>Homo</lineage>
+		</organism>
+		<proteinName>HLA class I histocompatibility antigen, A alpha chain</proteinName>
+		<sequence>
+			<value>MAVMAPRTLLLLLSGALALTQTWAGSHSMRYFFTSVSRPGRGEPRFIAVGYVDDTQFVRFDSDAASQRMEPRAPWIEQEGPEYWDQETRNVKAQSQTDRVDLGTLRGYYNQSEAGSHTIQIMYGCDVGSDGRFLRGYRQDAYDGKDYIALNEDLRSWTAADMAAQITKRKWEAAHEAEQLRAYLDGTCVEWLRRYLENGKETLQRTDPPKTHMTHHPISDHEATLRCWALGFYPAEITLTWQRDGEDQTQDTELVETRPAGDGTFQKWAAVVVPSGEEQRYTCHVQHEGLPKPLTLRWELSSQPTIPIVGIIAGLVLLGAVITGAVVAAVMWRRKSSDRKGGSYTQAASSDSAQGSDVSLTACKV</value>
+			<length>365</length>
+			<mass>40841</mass>
+		</sequence>
+		<geneName>HLA-A</geneName>
+		<function>Antigen-presenting major histocompatibility complex class I (MHCI) molecule. In complex with B2M/beta 2 microglobulin displays primarily viral and tumor-derived peptides on antigen-presenting cells for recognition by alpha-beta T cell receptor (TCR) on HLA-A-restricted CD8-positive T cells, guiding antigen-specific T cell immune response to eliminate infected or transformed cells (PubMed:10449296, PubMed:12138174, PubMed:12393434, PubMed:1402688, PubMed:15893615, PubMed:17189421, PubMed:19543285, PubMed:21498667, PubMed:24192765, PubMed:24395804, PubMed:2456340, PubMed:2784196, PubMed:28250417, PubMed:7504010, PubMed:7694806, PubMed:9862734). May also present self-peptides derived from the signal sequence of secreted or membrane proteins, although T cells specific for these peptides are usually inactivated to prevent autoreactivity (PubMed:25880248, PubMed:7506728, PubMed:7679507). Both the peptide and the MHC molecule are recognized by TCR, the peptide is responsible for the fine specificity of antigen recognition and MHC residues account for the MHC restriction of T cells (PubMed:12796775, PubMed:18275829, PubMed:19542454, PubMed:28250417). Typically presents intracellular peptide antigens of 8 to 13 amino acids that arise from cytosolic proteolysis via IFNG-induced immunoproteasome or via endopeptidase IDE/insulin-degrading enzyme (PubMed:17079320, PubMed:17189421, PubMed:20364150, PubMed:26929325, PubMed:27049119). Can bind different peptides containing allele-specific binding motifs, which are mainly defined by anchor residues at position 2 and 9 (PubMed:7504010, PubMed:9862734)</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>P08246</primaryAccession>
+		<organism>
+			<scientificName>Homo sapiens</scientificName>
+			<commonName>Human</commonName>
+			<taxonId>9606</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Chordata</lineage>
+			<lineage>Craniata</lineage>
+			<lineage>Vertebrata</lineage>
+			<lineage>Euteleostomi</lineage>
+			<lineage>Mammalia</lineage>
+			<lineage>Eutheria</lineage>
+			<lineage>Euarchontoglires</lineage>
+			<lineage>Primates</lineage>
+			<lineage>Haplorrhini</lineage>
+			<lineage>Catarrhini</lineage>
+			<lineage>Hominidae</lineage>
+			<lineage>Homo</lineage>
+		</organism>
+		<proteinName>Neutrophil elastase</proteinName>
+		<sequence>
+			<value>MTLGRRLACLFLACVLPALLLGGTALASEIVGGRRARPHAWPFMVSLQLRGGHFCGATLIAPNFVMSAAHCVANVNVRAVRVVLGAHNLSRREPTRQVFAVQRIFENGYDPVNLLNDIVILQLNGSATINANVQVAQLPAQGRRLGNGVQCLAMGWGLLGRNRGIASVLQELNVTVVTSLCRRSNVCTLVRGRQAGVCFGDSGSPLVCNGLIHGIASFVRGGCASGLYPDAFAPVAQFVNWIDSIIQRSEDNPCPHPRDPDPASRTH</value>
+			<length>267</length>
+			<mass>28518</mass>
+		</sequence>
+		<geneName>ELANE</geneName>
+		<function>Serine protease that modifies the functions of natural killer cells, monocytes and granulocytes. Inhibits C5a-dependent neutrophil enzyme release and chemotaxis (PubMed:15140022). Promotes cleavage of GSDMB, thereby inhibiting pyroptosis (PubMed:36899106). Promotes blood coagulation (PubMed:20676107). Through the activation of the platelet fibrinogen receptor integrin alpha-IIb/beta-3, potentiates platelet aggregation induced by a threshold concentration of cathepsin G (CTSG) (PubMed:25211214, PubMed:9111081). Cleaves and thus inactivates tissue factor pathway inhibitor (TFPI) (PubMed:20676107, PubMed:25211214). Capable of killing E.coli but not S.aureus in vitro; digests outer membrane protein A (ompA) in E.coli and K.pneumoniae (PubMed:10947984)</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>P42694</primaryAccession>
+		<organism>
+			<scientificName>Homo sapiens</scientificName>
+			<commonName>Human</commonName>
+			<taxonId>9606</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Chordata</lineage>
+			<lineage>Craniata</lineage>
+			<lineage>Vertebrata</lineage>
+			<lineage>Euteleostomi</lineage>
+			<lineage>Mammalia</lineage>
+			<lineage>Eutheria</lineage>
+			<lineage>Euarchontoglires</lineage>
+			<lineage>Primates</lineage>
+			<lineage>Haplorrhini</lineage>
+			<lineage>Catarrhini</lineage>
+			<lineage>Hominidae</lineage>
+			<lineage>Homo</lineage>
+		</organism>
+		<proteinName>Probable helicase with zinc finger domain</proteinName>
+		<sequence>
+			<value>MEDRRAEKSCEQACESLKRQDYEMALKHCTEALLSLGQYSMADFTGPCPLEIERIKIESLLYRIASFLQLKNYVQADEDCRHVLGEGLAKGEDAFRAVLCCMQLKGKLQPVSTILAKSLTGESLNGMVTKDLTRLKTLLSETETATSNALSGYHVEDLDEGSCNGWHFRPPPRGITSSEEYTLCKRFLEQGICRYGAQCTSAHSQEELAEWQKRYASRLIKLKQQNENKQLSGSYMETLIEKWMNSLSPEKVLSECIEGVKVEHNPDLSVTVSTKKSHQTWTFALTCKPARMLYRVALLYDAHRPHFSIIAISAGDSTTQVSQEVPENCQEWIGGKMAQNGLDHYVYKVGIAFNTEIFGTFRQTIVFDFGLEPVLMQRVMIDAASTEDLEYLMHAKQQLVTTAKRWDSSSKTIIDFEPNETTDLEKSLLIRYQIPLSADQLFTQSVLDKSLTKSNYQSRLHDLLYIEEIAQYKEISKFNLKVQLQILASFMLTGVSGGAKYAQNGQLFGRFKLTETLSEDTLAGRLVMTKVNAVYLLPVPKQKLVQTQGTKEKVYEATIEEKTKEYIFLRLSRECCEELNLRPDCDTQVELQFQLNRLPLCEMHYALDRIKDNGVLFPDISMTPTIPWSPNRQWDEQLDPRLNAKQKEAVLAITTPLAIQLPPVLIIGPYGTGKTFTLAQAVKHILQQQETRILICTHSNSAADLYIKDYLHPYVEAGNPQARPLRVYFRNRWVKTVHPVVHQYCLISSAHSTFQMPQKEDILKHRVVVVTLNTSQYLCQLDLEPGFFTHILLDEAAQAMECETIMPLALATQNTRIVLAGDHMQLSPFVYSEFARERNLHVSLLDRLYEHYPAEFPCRILLCENYRSHEAIINYTSELFYEGKLMASGKQPAHKDFYPLTFFTARGEDVQEKNSTAFYNNAEVFEVVERVEELRRKWPVAWGKLDDGSIGVVTPYADQVFRIRAELRKKRLSDVNVERVLNVQGKQFRVLFLSTVRTRHTCKHKQTPIKKKEQLLEDSTEDLDYGFLSNYKLLNTAITRAQSLVAVVGDPIALCSIGRCRKFWERFIALCHENSSLHGITFEQIKAQLEALELKKTYVLNPLAPEFIPRALRLQHSGSTNKQQQSPPKGKSLHHTQNDHFQNDGIVQPNPSVLIGNPIRAYTPPPPLGPHPNLGKSPSPVQRIDPHTGTSILYVPAVYGGNVVMSVPLPVPWTGYQGRFAVDPRIITHQAAMAYNMNLLQTHGRGSPIPYGLGHHPPVTIGQPQNQHQEKDQHEQNRNGKSDTNNSGPEINKIRTPEKKPTEPKQVDLESNPQNRSPESRPSVVYPSTKFPRKDNLNPRHINLPLPAPHAQYAIPNRHFHPLPQLPRPPFPIPQQHTLLNQQQNNLPEQPNQIPPQPNQVVQQQSQLNQQPQQPPPQLSPAYQAGPNNAFFNSAVAHRPQSPPAEAVIPEQQPPPMLQEGHSPLRAIAQPGPILPSHLNSFIDENPSGLPIGEALDRIHGSVALETLRQQQARFQQWSEHHAFLSQGSAPYPHHHHPHLQHLPQPPLGLHQPPVRADWKLTSSAEDEVETTYSRFQDLIRELSHRDQSETRELAEMPPPQSRLLQYRQVQSRSPPAVPSPPSSTDHSSHFSNFNDNSRDIEVASNPAFPQRLPPQIFNSPFSLPSEHLAPPPLKYLAPDGAWTFANLQQNHLMGPGFPYGLPPLPHRPPQNPFVQIQNHQHAIGQEPFHPLSSRTVSSSSLPSLEEYEPRGPGRPLYQRRISSSSVQPCSEEVSTPQDSLAQCKELQDHSNQSSFNFSSPESWVNTTSSTPYQNIPCNGSSRTAQPRELIAPPKTVKPPEDQLKSENLEVSSSFNYSVLQHLGQFPPLMPNKQIAESANSSSPQSSAGGKPAMSYASALRAPPKPRPPPEQAKKSSDPLSLFQELSLGSSSGSNGFYSYFK</value>
+			<length>1942</length>
+			<mass>218970</mass>
+		</sequence>
+		<geneName>HELZ</geneName>
+		<function>May act as a helicase that plays a role in RNA metabolism in multiple tissues and organs within the developing embryo</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>Q8R2G6</primaryAccession>
+		<organism>
+			<scientificName>Mus musculus</scientificName>
+			<commonName>Mouse</commonName>
+			<taxonId>10090</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Chordata</lineage>
+			<lineage>Craniata</lineage>
+			<lineage>Vertebrata</lineage>
+			<lineage>Euteleostomi</lineage>
+			<lineage>Mammalia</lineage>
+			<lineage>Eutheria</lineage>
+			<lineage>Euarchontoglires</lineage>
+			<lineage>Glires</lineage>
+			<lineage>Rodentia</lineage>
+			<lineage>Myomorpha</lineage>
+			<lineage>Muroidea</lineage>
+			<lineage>Muridae</lineage>
+			<lineage>Murinae</lineage>
+			<lineage>Mus</lineage>
+			<lineage>Mus</lineage>
+		</organism>
+		<proteinName>DnaJ homolog subfamily C member 2</proteinName>
+		<sequence>
+			<value>MLLLPSAAEGQGTAITHALTSASSVCQVEPVGRWFEAFVKRRNRNASTSFQELEDKKELSEESEDEELQLEEFPMLKTLDPKDWKNQDHYAVLGLGHVRYTATQRQIKAAHKAMVLKHHPDKRKAAGEPIKEGDNDYFTCITKAYEMLSDPVKRRAFNSVDPTFDNSVPSKSEAKDNFFQVFSPVFERNSRWSNKKNVPKLGDMNSSFEDVDAFYSFWYNFDSWREFSYLDEEEKEKAECRDERKWIEKQNRATRAQRKKEEMNRIRTLVDNAYSCDPRIKKFKEEEKAKKEAEKKAKAEARRKEQEAKEKQRQAELEAVRLAKEKEEEEVRQQALLAKKEKDIQKKAIKKERQKLRNSCKSWNHFSDNEADRVKMMEEVEKLCDRLELASLQGLNEILASSTREVGKAALEKQIEEVNEQMRREKEEADARMRQASKNAEKSTGGSGSGSKNWSEDDLQLLIKAVNLFPAGTNSRWEVIANYMNIHSSSGVKRTAKDVISKAKSLQKLDPHQKDDINKKAFDKFKKEHGVASQADSAAPSERFEGPCIDSTPWTTEEQKLLEQALKTYPVNTPERWEKIAEAVPGRTKKDCMRRYKELVEMVKAKKAAQEQVLNASRARK</value>
+			<length>621</length>
+			<mass>71722</mass>
+		</sequence>
+		<geneName>Dnajc2</geneName>
+		<function>Acts both as a chaperone in the cytosol and as a chromatin regulator in the nucleus. When cytosolic, acts as a molecular chaperone: component of the ribosome-associated complex (RAC), a complex involved in folding or maintaining nascent polypeptides in a folding-competent state. In the RAC complex, stimulates the ATPase activity of the ribosome-associated pool of Hsp70-type chaperones HSPA14 that bind to the nascent polypeptide chain. When nuclear, mediates the switching from polycomb-repressed genes to an active state: specifically recruited at histone H2A ubiquitinated at 'Lys-119' (H2AK119ub), and promotes the displacement of the polycomb PRC1 complex from chromatin, thereby facilitating transcription activation.</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>Q9D067</primaryAccession>
+		<organism>
+			<scientificName>Mus musculus</scientificName>
+			<commonName>Mouse</commonName>
+			<taxonId>10090</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Chordata</lineage>
+			<lineage>Craniata</lineage>
+			<lineage>Vertebrata</lineage>
+			<lineage>Euteleostomi</lineage>
+			<lineage>Mammalia</lineage>
+			<lineage>Eutheria</lineage>
+			<lineage>Euarchontoglires</lineage>
+			<lineage>Glires</lineage>
+			<lineage>Rodentia</lineage>
+			<lineage>Myomorpha</lineage>
+			<lineage>Muroidea</lineage>
+			<lineage>Muridae</lineage>
+			<lineage>Murinae</lineage>
+			<lineage>Mus</lineage>
+			<lineage>Mus</lineage>
+		</organism>
+		<proteinName>Nuclear protein MDM1</proteinName>
+		<sequence>
+			<value>MPVRFKGLSEYQRNFLWKKSYLSESYNPSVGQKYSWAGLRSDQLGITKEPGFISKRRVPYHDPQISKYLEWNGTVRKKDTLVPPEPQAFGTPKPQEAEQGEDANQEAVLSLEASRVPKRTRSHSADSRAEGVSDTVEKHQGVTRSHAPVSADVELRPSSKQPLSQSIDPRLDRHLRKKAGLAVVPTNNALRNSEYQRQFVWKTSKESAPVFASNQVFRNKSQIIPQFQGNTFTHETEYKRNFKGLTPVKEPKSREYLKGNSSLEMLTPVKKADEPLDLEVDMASEDSDQSVKKPASWRHQRLGKVNSEYRAKFLSPAQYFYKAGAWTRVKENLSNQVKELREKAESYRKRVQGTHFSRDHLNQIMSDSNCCWDVSSVTSSEGTVSSNIRALDLAGDLTNHRTPQKHPPTKLEERKVASGEQPLKNSTRRLEMPEPAASVRRKLAWDAEESTKEDTQEEPRAEEDGREERGQDKQTCAVELEKPDTQTPKADRLTEGSETSSVSSGKGGRLPTPRLRELGIQRTHHDLTTPAVGGAVLVSPSKVKPPGLEQRRRASSQDGLETLKKDITKKGKPRPMSLLTSPAAGMKTVDPLPLREDCEANVLRFADTLPVSKILDRQPSTPGQLPPCAPPYCHPSSRIQGRLRDPEFQHNMGKPRTNNLQLHPHDAFNDEDADRLSEISARSAVSSLRAFQTLARAQKRKENFWGKP</value>
+			<length>708</length>
+			<mass>79689</mass>
+		</sequence>
+		<geneName>Dnajc2</geneName>
+		<function>Microtubule-binding protein that negatively regulates centriole duplication. Binds to and stabilizes microtubules.</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>Q9D067</primaryAccession>
+		<organism>
+			<scientificName>Mus musculus</scientificName>
+			<commonName>Mouse</commonName>
+			<taxonId>10090</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Chordata</lineage>
+			<lineage>Craniata</lineage>
+			<lineage>Vertebrata</lineage>
+			<lineage>Euteleostomi</lineage>
+			<lineage>Mammalia</lineage>
+			<lineage>Eutheria</lineage>
+			<lineage>Euarchontoglires</lineage>
+			<lineage>Glires</lineage>
+			<lineage>Rodentia</lineage>
+			<lineage>Myomorpha</lineage>
+			<lineage>Muroidea</lineage>
+			<lineage>Muridae</lineage>
+			<lineage>Murinae</lineage>
+			<lineage>Mus</lineage>
+			<lineage>Mus</lineage>
+		</organism>
+		<proteinName>Nuclear protein MDM1</proteinName>
+		<sequence>
+			<value>MPVRFKGLSEYQRNFLWKKSYLSESYNPSVGQKYSWAGLRSDQLGITKEPGFISKRRVPYHDPQISKYLEWNGTVRKKDTLVPPEPQAFGTPKPQEAEQGEDANQEAVLSLEASRVPKRTRSHSADSRAEGVSDTVEKHQGVTRSHAPVSADVELRPSSKQPLSQSIDPRLDRHLRKKAGLAVVPTNNALRNSEYQRQFVWKTSKESAPVFASNQVFRNKSQIIPQFQGNTFTHETEYKRNFKGLTPVKEPKSREYLKGNSSLEMLTPVKKADEPLDLEVDMASEDSDQSVKKPASWRHQRLGKVNSEYRAKFLSPAQYFYKAGAWTRVKENLSNQVKELREKAESYRKRVQGTHFSRDHLNQIMSDSNCCWDVSSVTSSEGTVSSNIRALDLAGDLTNHRTPQKHPPTKLEERKVASGEQPLKNSTRRLEMPEPAASVRRKLAWDAEESTKEDTQEEPRAEEDGREERGQDKQTCAVELEKPDTQTPKADRLTEGSETSSVSSGKGGRLPTPRLRELGIQRTHHDLTTPAVGGAVLVSPSKVKPPGLEQRRRASSQDGLETLKKDITKKGKPRPMSLLTSPAAGMKTVDPLPLREDCEANVLRFADTLPVSKILDRQPSTPGQLPPCAPPYCHPSSRIQGRLRDPEFQHNMGKPRTNNLQLHPHDAFNDEDADRLSEISARSAVSSLRAFQTLARAQKRKENFWGKP</value>
+			<length>708</length>
+			<mass>79689</mass>
+		</sequence>
+		<geneName>Dnajc2</geneName>
+		<function>Microtubule-binding protein that negatively regulates centriole duplication. Binds to and stabilizes microtubules.</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>A0A5E4M3Q4</primaryAccession>
+		<organism>
+			<scientificName>Caenorhabditis elegans</scientificName>
+			<taxonId>6239</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Ecdysozoa</lineage>
+			<lineage>Nematoda</lineage>
+			<lineage>Chromadorea</lineage>
+			<lineage>Rhabditida</lineage>
+			<lineage>Rhabditina</lineage>
+			<lineage>Rhabditomorpha</lineage>
+			<lineage>Rhabditoidea</lineage>
+			<lineage>Rhabditidae</lineage>
+			<lineage>Peloderinae</lineage>
+			<lineage>Caenorhabditis</lineage>
+		</organism>
+		<proteinName>Zinc finger protein syd-9</proteinName>
+		<sequence>
+			<value>MSVCVSPLVQATILMTEESLTCPQCPKSFSSTKLLQQHQQMFHTDKSVLLSLKSTDAPVGMDRAFICETCGKAFRFRSNLAEHRSVHTALKPYVCKFCGKSSRLKGNLTKHILKHHKKEQNEAIAKDDIIVKKAPKIVTKDNGPTTNGSTPTTSTATPSVITVSSALASSNGHNNNNNNHAVNNNLRTIKMELEDPDYNLIAKSAPTPVVSKIVATHTVTPRSRPTPKDIKEILETIAPSVGVSETPEEMCLLPKDASSESDRSVLISLGFDFGSTLSLNHQQLQQVVRELKGELSISPDTVQSDHSDDFEQDSPPPMAIANISTVGGEATLAAMIVAATNASGQRGDGTPDSTDTQKGCSPQRELSPESDPSTSSGDSCPSPPKMLHCKECGTLVRKSSHLPIHMTMSHGYPPPLVAAPVEEKPAPEQPVNASSLHNELRVISNAICELKAQQAATPRVEQALTYIDSRVGKLERSLETALNSIYTLVQLQTGMTSSVNRLREDSTKNFSDLKTRMEMSLSPIKPFQQRFSRERSSSSSVERSPSRERSRSPL</value>
+			<length>554</length>
+			<mass>60211</mass>
+		</sequence>
+		<geneName>syd-9</geneName>
+		<function>Plays a role in regulating synaptic function, probably by modulation of endocytosis (PubMed:16803962). May be dispensable in muscle for normal locomotion (PubMed:16803962). May be involved in post-transcriptional mRNA processing, in parallel with unc-75 (PubMed:16803962).</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>Q9Y1J3</primaryAccession>
+		<organism>
+			<scientificName>Caenorhabditis elegans</scientificName>
+			<taxonId>6239</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Metazoa</lineage>
+			<lineage>Ecdysozoa</lineage>
+			<lineage>Nematoda</lineage>
+			<lineage>Chromadorea</lineage>
+			<lineage>Rhabditida</lineage>
+			<lineage>Rhabditina</lineage>
+			<lineage>Rhabditomorpha</lineage>
+			<lineage>Rhabditoidea</lineage>
+			<lineage>Rhabditidae</lineage>
+			<lineage>Peloderinae</lineage>
+			<lineage>Caenorhabditis</lineage>
+		</organism>
+		<proteinName>3-phosphoinositide-dependent protein kinase 1</proteinName>
+		<sequence>
+			<value>MEDLTPTNTSLDTTTTNNDTTSDREAAPTTLNLTPTASESENSLSPVTAEDLIAKSIKEGCPKRTSNDFMFLQSMGEGAYSQVFRCREVATDAMFAVKVLQKSYLNRHQKMDAIIREKNILTYLSQECGGHPFVTQLYTHFHDQARIYFVIGLVENGDLGESLCHFGSFDMLTSKFFASEILTGLQFLHDNKIVHRDMKPDNVLIQKDGHILITDFGSAQAFGGLQLSQEGFTDANQASSRSSDSGSPPPTRFYSDEEVPEENTARRTTFVGTALYVSPEMLADGDVGPQTDIWGLGCILFQCLAGQPPFRAVNQYHLLKRIQELDFSFPEGFPEEASEIIAKILVRDPSTRITSQELMAHKFFENVDWVNIANIKPPVLHAYIPATFGEPEYYSNIGPVEPGLDDRALFRLMNLGNDASASQPSTFRPSNVEHRGDPFVSEIAPRANSEAEKNRAARAQKLEEQRVKNPFHIFTNNSLILKQGYLEKKRGLFARRRMFLLTEGPHLLYIDVPNLVLKGEVPWTPCMQVELKNSGTFFIHTPNRVYYLFDLEKKADEWCKAINDVRKRYSVTIEKTFNSAMRDGTFGSIYGKKKSRKEMMREQKALRRKQEKEEKKALKAEQVSKKLSMQMDKKSP</value>
+			<length>636</length>
+			<mass>71917</mass>
+		</sequence>
+		<geneName>pdk-1</geneName>
+		<function>Involved in the daf-2/insulin receptor-like transduction pathway, which controls longevity and prevents developmental arrest at the dauer stage (PubMed:10364160, PubMed:21980302). Phosphorylates and activates sgk-1, akt-1 and akt-2 (PubMed:15068796).</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>A0A1P8AUY4</primaryAccession>
+		<organism>
+			<scientificName>Arabidopsis thaliana</scientificName>
+			<commonName>Mouse-ear cress</commonName>
+			<taxonId>3702</taxonId>
+			<lineage>Eukaryota</lineage>
+			<lineage>Viridiplantae</lineage>
+			<lineage>Streptophyta</lineage>
+			<lineage>Embryophyta</lineage>
+			<lineage>Tracheophyta</lineage>
+			<lineage>Spermatophyta</lineage>
+			<lineage>Magnoliopsida</lineage>
+			<lineage>eudicotyledons</lineage>
+			<lineage>Gunneridae</lineage>
+			<lineage>Pentapetalae</lineage>
+			<lineage>rosids</lineage>
+			<lineage>malvids</lineage>
+			<lineage>Brassicales</lineage>
+			<lineage>Brassicaceae</lineage>
+			<lineage>Camelineae</lineage>
+			<lineage>Arabidopsis</lineage>
+		</organism>
+		<proteinName>Midasin</proteinName>
+		<sequence>
+			<value>MAIDGSFNLKLALETFSVRCPKVAAFPCFTSILSKGGEVVDNEEVIHALGDAFLHPEFTVPLVHCFLPIIRNVVDRVVGLLRLVDDLKSSIDYSDDVSSVLDNAMTEGISVIDFYVRRGQRLELHECACLAFSRALHFNTSLLGSILNYFEKAPPPYERILVKDIVSESRMEATDAYLLCLRVSYRFLVIRPEVFSKLWDWSCYLDSMKRLSECPRQQRHFLEKYRDAVWCGIQILSVVLRCSDRLAGCFGFEEEEALSCLLRWEEFCQDIEIEKAGLYIQLPTYTALKSLQQFNTLVPGINKRQSAGLEADEPQMKIRRLDTWDVNSFSEPFEIHSRVKKSFEMVSLAVSQKRPVLLYGPSGSGKSALIRKLADESGNHVVFIHMDDQLDGKTLVGTYVCTDQPGEFRWQPGSLTQAIMNGFWVVLEDIDKAPSDVPLVLSSLLGGSCSFLTSQGEEIRIAETFQLFSTISTPECSVSHIRDAGNSLSPLWRRIVVYPPDRESLQSILGARYPNLGPVAEKLIETFETINSALRPQFSSSTTENSATFSSPSRFSLRDLLKWCERVHGLPSYDGHAVYQEAADIFSASNMSVKNRVAVSEIVASIWNVAVPESQDKPPIQEFSGILKIGRVSLPLGETASHDRSRFVETRTSTRLLEKIARSVEYNEPVLLVGETGTGKTTLVQNLAHWIGQKLTVLNLSQQSDIVDLLGGFKPIDPKLMCTMVYNEFNELARDLKIKDDSKIMKWLQDNFRAKKWHTFLTGLLDIIKGIEGRITERMEGKIGEARSRSGRKRKKPEEELKNCACLRTKVNKIRQQIHSGGMVFTFVEGAFVTALREGHWVLLDEVNLAPPEILGRLIGVLEGVRGSLCLAERGDVMGIPRHLNFRLFACMNPATDAGKRDLPFSFRSRFTEYAVDDDICDDDLEIFVRRFLGGRGSDSKLVANIVWFYKEAKRLSEESLQDGANQKPQYSLRSLYRALEYAIKAEAIGGFQKALYDGFSMFFLSLLDASSAKIVEPIIKRISGENIRSQPLQRYLGELKGSSDKFVGSYVKTKSVIDHLNHLAHAIFIKRYPVLLQGPTSSGKTSLVKYLAAISGNKFVRINNHEQTDIQEYLGSYMTDSSGKLVFHEGALVKAVRGGHWIVLDELNLAPSDVLEALNRLLDDNRELFVPELSETISAHPNFMLFATQNPPTLYGGRKILSRAFRNRFVEIHVDEIPEDELSEILTTKCSIANSHASKMVEVMKDLQRNRQSSKAFAGKHGYITPRDLFRWAYRFRTYDGTSHEELAREGYYILAERLRDDTEKVVVQEVLERHFRVSLAKDDLYNMELPRLDSIQNRKFTWTQSMRRLFFLIDRSYKLREPVLLVGDTGGGKTTICQILSDVKKKRLHILNCHQYTETSDFLGGFFPVRDRSKLITEYENQVKQLELSQALTPFGQDIVICGDISRAEVSIKSVEVALEKYKNGSVIGVAATPQDVDFLEKIRNNMVMLYQKWRAIFVWQDGPLVEAMRAGNIVLVDEISLADDSVLERMNSVLETDRKLSLAEKGGPVLEEVVAHEDFFVLATMNPGGDYGKKELSPALRNRFTEIWVPPITDTEELRSIAFSGLSSLKESNVVDPIINFWEWFNRLHTGRTLTVRDLLSWVAFVNMATESLGPAYAILHGAFLVLLDGLSLGTGFSGRDGQDLREKCFAFLLQQLELFASDTLPLELSRMELYGWGDSKAICEKSKSVRHEGMFGIDPFFISKGDENPEIGGFEFLAPTTHRNVLRVLRAMQLSKPILLEGSPGVGKTSLILALGKYSGHKVVRINLSEQTDMMDLLGSDLPVESDEDMKFAWSDGILLQALKEGSWVLLDELNLAPQSVLEGLNAILDHRAQVFIPELGCTFECPPTFRVFACQNPSTQGGGRKGLPKSFLNRFTKVYVDELVEDDYLFICRSLYPSVPSPLLSKLIALNRQLHDGTMLYRKFGHDGSPWEFNLRDVIRSCQFMQEAIHDLEVESFLNVLYIQRMRTATDRKEVLRIYKAIFDKTPSINPYPRVQLNPAYLVVGTAAIKRNLNQSNIASEQLKLLPEIRQNLEAVAHCVQNKWLCILVGPSSSGKTSVIRILAQLTGYPLNELNLSSATDSSDLLGCFEQYNAFRNFRLVMTRVEHLVDEYNSLLLQSSQEALFSNRSGLVSRWLSYLNKIDSSLVENPLFFLNDSETLSTLEEVVEDLEQVLKEGVLPVSWSKKYLEQISKTILQLQTHEKKQSTKFEWVTGMLIKAIEKGEWVVLKNANLCNPTVLDRINSLVEPCGSITINECGIVNGEPVTVVPHPNFRLFLSVNPKFGEVSRAMRNRGVEVFMMGPHWQLNEDGSNCEELVLRGVERFLALSGIPGYKLVTSMAKAHVHAWLNGQSFGVRITYLELEQWVHLFQLLLMNGNQLLWSLQLSWEHIYLSSLGVTDGKEVVDFVRETYLSDVELSELDSFMGGDLYLPGGWPKPFNLRDLTWYSRETTVRQNCMYLEFLGAQYASHQPKISDNVKSRDRELAAGEPRIIYSIDSWTLKKVLFPKALIGSSCAPDAANFENDLASKMLLFAANWTIEQATEEDIQLYLAWFSWFGSRLQQHCPFLLCFLNTLKVEFEHPIWNHISRCRKNLKFLCRLDPDAVPIPMLSSKLIDVAASNDQSKPYSKSLFESLNSVGVLRRSYQQWLVESNDNHTDVSTFTRFLDSLRVLEKKILCEIVGAPSFSVLIQLYTEVIDNHSFFWSGLVSSSDEYLLFSFWSLIKSIKKMHSFFPGEVQVVLEESKNINNIVLHGHPEKSMLWAYGGHPSLPVSAELFHKQQEFLQLCSTVWPLKSESDEHGNDHLTKAIPFSGPELCLLALEGLCISSYIADEDDVDYVAAVQLDEIYQTFLERLKLEKKRLEDKMGFSEIDNTENITASCCVFCPEIVTTGSGFSSWVKTCFIASSESCSLDVELLAALQHLLVARPTEHQDLVDIRKLLKPALEYSLSSTRPPQTLVAHQKLLWAIDAHASELGVDTKIAGFALEIWYWWHSVLWKNSQIGLMNISDTGNCQILSPSMLIQPVKTATVAQILENVFSVKDYSVQSMKLLSASRYLWKSSQPYQEMPGSLLSIARSLFQQIIYTHQKSFESETFVAIKSVFHAIEKKQNKMDGIQNLISLIGSSSHNKLKSVTHSFVGPLAKRLYSDSSSNALCPTFVEFYCNLGLAWLYLGGLRFHLLNSLDVIDPAMKITCKLLKLEEKISSLELNIKVRGECGYLSGLLYSGNNDESSEHTLSKLKTEHKRLQRKVIFRSDPKKYQDLRRALDEFAGFLTRPISLVNDIEVLDWNQVVEQVFNWQETAISFIDRMSSDYSEYVDITQPIQVSVYEMKLGLSLFVSGALLGKLLNRFDIDMVDSVMETIYALMRFPRDSSIASTTYTECLPPLHLSHGANSRAKSLGLDVGLLHKLISVSSAEDSRKASELQLKVALYKNLHARVLQFVANTGLLDEASFELLDKIYVELARIWMEMKFQAKTKADNLPGLYKFRSRDFKIDSVMEVDISALGKYFPNESFSEWQEYLADDDTKNVKDMTHIDQDEENLEDDWDLIQEHLDSIYSTHNELFGFCDLSEKSGRFCITDSRRLDSFTDSYELGVSMIKGLRGLFTSSLDAKLVPEHLLRLCLENKKNFTSNYQSASKYNFYKDLDGPELGKMVKFLTPLQQRINSLLQEREDHPGLQKLSGVLQMLLAIPSSTPLAKALSGLQFLLCKVHKLQEEGCKLPISDLLEPIISLASSWQKVEFERWPTLLDEVQDQYELNARKLWLPLFSVLFQKDAVEISEHENESISQSLVEFIETSNVGEFRRRLQLLFCFLLQLSMGSSLGIYSSDSHKRRVEMCYNIFGFYIQFLPVVMEQLDLNRKNVETELKEVLKLCRWERPDNYLYNETTKRTRQKVKKLIQKFTDMLRLPVMLVKPDLTKERAQFLPLLDPDLMDGASDMRIEVLVSALDAEQLRDRSSWYVVWWNKLKESVGRFHQEMHYKTLLMGAEHQYSSPVYQGDWKNLWSTVARIGETIAGCSDLWRNSDRDVAKKRALFELLKLLESSGLQKHKFENIEMSNHFKGLLYQPAYDPKHLLLLTHTKSNIHPSMGVEDQNKENSLVEWRVANEFYFKSLASVQLMLNIDRKHSDVTAEQVKRAISFLNHLVEIQRQQRKSAYAFAELFNRFRQCVLSLARLLGDSVGADRKDDSVFSFPQNQHAVFNCLWLQKQLFDNITAMLLEESALLRTVGSTHLDSCQAVKTSSRSLLSFIEILIPIAQNSKASLDRLLLDCNGFIITPSSSLKQFVTQHMVQVLRQNFDQLTDLENQISSFCENNEKSYCRDVLLSQFSPVFKEGKLLAENLNCLLNVRDQSTGMEPKERLFLEENLASIFANVKDVIGKLCSYKDGSLSQEEEMNITTWDGLFKKAENDLNLDNLCKLLSESFGSIEQLLNSSGVLSAGVGDQLKQLQAFLDLLLSFGDCYLKEFLAISKTVSLITHVLASVLADLFTKGFGISKNEEDDDSKVDKSEAAEGTGMGDGVGAKDVSDQIEDEDQLHGTDKKEEEEKEQDDVLGKNKGIEMSDEFDGKEYSVSEDEEEDKEDEGSEDEPLDNGIGDVGSDAEKADEKPWNKDEEDEEENMNEKNESGPSIVDKDTRSRELRAKDDGVETADEPEESNTSDKPEEGNDENVEQDDFDDTDNLEEKIQTKEEALGGLTPDVDNEQIDDDMEMDKTEEVEKEDANQQEEPCSEDQKHPEEGENDQEETQEPSEENMEAEAEDRCGSPQKEEPGNDLEQEPETEPIEGKEVMSEDMMKPNFRNDNISGVESGSQNPHGSNVLGAGSTAPQENLSATDVTDELTDSMDLPSSSNTEMNLMMTNMANGETLTDNLPKMEFPQNQSSTAQQTKVNPYRNVGDALKEWKERVRISSDLGEKQEAENEMEDPDASEYGFASQFDAGTSQALGPALPEQVNTDMREGESEEEKLAGNQDDVSPMDIDDLNPENKPAVQSKPSISNSIAEQVQEPDTDRTHQENSPIHNFGDGNSRMDSMVSVDNTFLGEEACNLDRMQVTDNDSESNQDNQEDPDARSNAVVLWRRCELLTAKPSQELAEQLRLILEPTLASKLSGDYRTGKRINMKKVIPYIASHYRKDKIWLRRTKPNKRDYQVVIAVDDSRSMSESGCGDFAIRALATVCRAMSQLELGSLAVASFGKQGSIKMLHDFGQSFTTESGIKMISNLTFKQENLIEDQPVVNLLRNMNEMLENLASTRRQSYGSNPLQQLVLIIGDGKFHEREKLKRTVRSFLQQKRMVVYLLLDDAEQSVFDLADYVYDGERRPYKKMNYLDSFPFPYYIVLRDIEALPRTLGDVLRQWFELMQSSRD</value>
+			<length>5400</length>
+			<mass>611889</mass>
+		</sequence>
+		<geneName>MDN1</geneName>
+		<function>Nuclear chaperone required for maturation and nuclear export of pre-60S ribosome subunits. Functions at successive maturation steps to remove ribosomal factors at critical transition points, first driving the exit of early pre-60S particles from the nucleolus and then driving late pre-60S particles from the nucleus (By similarity). Required for female gametophyte development (PubMed:23572950). Involved in the expression regulation of genes related to plant growth and development (PubMed:27824150).</function>
+	</protein_list>
+	<protein_list>
+		<primaryAccession>P00509</primaryAccession>
+		<organism>
+			<scientificName>Escherichia coli (strain K12)</scientificName>
+			<taxonId>83333</taxonId>
+			<lineage>Bacteria</lineage>
+			<lineage>Pseudomonadati</lineage>
+			<lineage>Pseudomonadota</lineage>
+			<lineage>Gammaproteobacteria</lineage>
+			<lineage>Enterobacterales</lineage>
+			<lineage>Enterobacteriaceae</lineage>
+			<lineage>Escherichia</lineage>
+		</organism>
+		<proteinName>Aspartate aminotransferase</proteinName>
+		<sequence>
+			<value>MFENITAAPADPILGLADLFRADERPGKINLGIGVYKDETGKTPVLTSVKKAEQYLLENETTKNYLGIDGIPEFGRCTQELLFGKGSALINDKRARTAQTPGGTGALRVAADFLAKNTSVKRVWVSNPSWPNHKSVFNSAGLEVREYAYYDAENHTLDFDALINSLNEAQAGDVVLFHGCCHNPTGIDPTLEQWQTLAQLSVEKGWLPLFDFAYQGFARGLEEDAEGLRAFAAMHKELIVASSYSKNFGLYNERVGACTLVAADSETVDRAFSQMKAAIRANYSNPPAHGASVVATILSNDALRAIWEQELTDMRQRIQRMRQLFVNTLQEKGANRDFSFIIKQNGMFSFSGLTKEQVLRLREEFGVYAVASGRVNVAGMTPDNMAPLCEAIVAVL</value>
+			<length>396</length>
+			<mass>43573</mass>
+		</sequence>
+		<geneName>aspC</geneName>
+		<function></function>
+	</protein_list>
+</data>
